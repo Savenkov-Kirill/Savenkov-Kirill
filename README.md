@@ -16,11 +16,14 @@
 - :nerd_face: I'm currently a student at **RS School**
 - :monocle_face: Keeping up with news and trends in the world of **IT and marketing**
 - :man_technologist: Worked as a CRM marketer (technical specialist) in such projects:<br><br>
+Wine and Spirits :wine_glass:<br>
+Zoobazar :cat: :dog:<br>
 Burger King :hamburger: <br>
 DoDo Pizza :pizza: <br>
-Wine and Spirits :wine_glass:<br> 
-Zoobazar :cat: :dog:<br> 
 Procvetok :hibiscus:<br>
+
+
+
 - Reach me by [Telegram](https://t.me/Kirill_Savenkou), [email](mailto:ksavenkov@mail.ru)
 
 ### Langueage and tools
