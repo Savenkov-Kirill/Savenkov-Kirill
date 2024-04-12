@@ -4,11 +4,11 @@
 </div>
 
 <div id="socials" align="center">
-<a href="https://www.linkedin.com/in/kirill-savenkov-45183823b">
+<a href="https://www.linkedin.com/in/kirill-savenkov-45183823b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://www.instagram.com/savenkov_kirill/">
+    <a href="https://www.instagram.com/savenkov_kirill/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-deeppink?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://t.me/Kirill_Savenkou">
+    <a href="https://t.me/Kirill_Savenkou" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-steelblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </div>
 
@@ -20,7 +20,7 @@ Burger King :hamburger: <br>
 DoDo Pizza :pizza: <br>
 Wine and Spirits :wine_glass:<br> 
 Zoobazar :cat: :dog:<br> 
-Procvetok :hibiscus:
+Procvetok :hibiscus:<br>
 - Reach me by [Telegram](https://t.me/Kirill_Savenkou), [email](mailto:ksavenkov@mail.ru)
 
 ### Langueage and tools
